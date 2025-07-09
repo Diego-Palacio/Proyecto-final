@@ -8,10 +8,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 @CrossOrigin(origins="*")
 @RestController
-@RequestMapping
+@RequestMapping("/api/articulos")
 
 public class ArticuloController{
 
+    
 }
 
 
